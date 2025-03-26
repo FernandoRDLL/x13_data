@@ -1,0 +1,3788 @@
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.18 
+
+  Reading input spec file from spec_Alabama__L_MFH.spc
+  Storing any program output into spec_Alabama__L_MFH.html
+  Storing any program error messages into spec_Alabama__L_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Alabama__L_MFH.spc at  Mar 25, 2025  22.48.18 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.18 
+
+  Reading input spec file from spec_Alabama__MFH.spc
+  Storing any program output into spec_Alabama__MFH.html
+  Storing any program error messages into spec_Alabama__MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Alabama__MFH.spc at  Mar 25, 2025  22.48.18 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.18 
+
+  Reading input spec file from spec_Alabama__SFH.spc
+  Storing any program output into spec_Alabama__SFH.html
+  Storing any program error messages into spec_Alabama__SFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+
+ Execution complete for spec_Alabama__SFH.spc at  Mar 25, 2025  22.48.18 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.18 
+
+  Reading input spec file from spec_Alabama__S_MFH.spc
+  Storing any program output into spec_Alabama__S_MFH.html
+  Storing any program error messages into spec_Alabama__S_MFH_err.html
+ 
+
+ WARNING: At least one negative value was found in one of the trend
+          cycle estimates (B  7).  Negative value(s) will be replaced
+          either by the mean of its two closest neighbors that are greater
+          than zero, or by the nearest value that  is greater than zero
+          (if the value is on either end of the series).
+   
+            These are often caused by poor forecasts and/or backcasts.
+            Users should check the fit of any existing regARIMA model,
+            using the diagnostics in the check spec.
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Alabama__S_MFH.spc at  Mar 25, 2025  22.48.18 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.18 
+
+  Reading input spec file from spec_Alabama__TOT.spc
+  Storing any program output into spec_Alabama__TOT.html
+  Storing any program error messages into spec_Alabama__TOT_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Alabama__TOT.spc at  Mar 25, 2025  22.48.18 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.18 
+
+  Reading input spec file from spec_Alaska__L_MFH.spc
+  Storing any program output into spec_Alaska__L_MFH.html
+  Storing any program error messages into spec_Alaska__L_MFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+
+ Execution complete for spec_Alaska__L_MFH.spc at  Mar 25, 2025  22.48.18 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.18 
+
+  Reading input spec file from spec_Alaska__MFH.spc
+  Storing any program output into spec_Alaska__MFH.html
+  Storing any program error messages into spec_Alaska__MFH_err.html
+ 
+
+ WARNING: At least one negative value was found in one of the trend
+          cycle estimates (B  7).  Negative value(s) will be replaced
+          either by the mean of its two closest neighbors that are greater
+          than zero, or by the nearest value that  is greater than zero
+          (if the value is on either end of the series).
+   
+            These are often caused by poor forecasts and/or backcasts.
+            Users should check the fit of any existing regARIMA model,
+            using the diagnostics in the check spec.
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Alaska__MFH.spc at  Mar 25, 2025  22.48.18 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.18 
+
+  Reading input spec file from spec_Alaska__SFH.spc
+  Storing any program output into spec_Alaska__SFH.html
+  Storing any program error messages into spec_Alaska__SFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+
+ Execution complete for spec_Alaska__SFH.spc at  Mar 25, 2025  22.48.18 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.18 
+
+  Reading input spec file from spec_Alaska__S_MFH.spc
+  Storing any program output into spec_Alaska__S_MFH.html
+  Storing any program error messages into spec_Alaska__S_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Alaska__S_MFH.spc at  Mar 25, 2025  22.48.18 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.18 
+
+  Reading input spec file from spec_Alaska__TOT.spc
+  Storing any program output into spec_Alaska__TOT.html
+  Storing any program error messages into spec_Alaska__TOT_err.html
+ 
+
+ Execution complete for spec_Alaska__TOT.spc at  Mar 25, 2025  22.48.19 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.19 
+
+  Reading input spec file from spec_Arizona__L_MFH.spc
+  Storing any program output into spec_Arizona__L_MFH.html
+  Storing any program error messages into spec_Arizona__L_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Arizona__L_MFH.spc at  Mar 25, 2025  22.48.19 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.19 
+
+  Reading input spec file from spec_Arizona__MFH.spc
+  Storing any program output into spec_Arizona__MFH.html
+  Storing any program error messages into spec_Arizona__MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Arizona__MFH.spc at  Mar 25, 2025  22.48.19 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.19 
+
+  Reading input spec file from spec_Arizona__SFH.spc
+  Storing any program output into spec_Arizona__SFH.html
+  Storing any program error messages into spec_Arizona__SFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+
+ Execution complete for spec_Arizona__SFH.spc at  Mar 25, 2025  22.48.19 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.19 
+
+  Reading input spec file from spec_Arizona__S_MFH.spc
+  Storing any program output into spec_Arizona__S_MFH.html
+  Storing any program error messages into spec_Arizona__S_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Arizona__S_MFH.spc at  Mar 25, 2025  22.48.19 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.19 
+
+  Reading input spec file from spec_Arizona__TOT.spc
+  Storing any program output into spec_Arizona__TOT.html
+  Storing any program error messages into spec_Arizona__TOT_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Arizona__TOT.spc at  Mar 25, 2025  22.48.19 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.19 
+
+  Reading input spec file from spec_Arkansas__L_MFH.spc
+  Storing any program output into spec_Arkansas__L_MFH.html
+  Storing any program error messages into spec_Arkansas__L_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Arkansas__L_MFH.spc at  Mar 25, 2025  22.48.19 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.19 
+
+  Reading input spec file from spec_Arkansas__MFH.spc
+  Storing any program output into spec_Arkansas__MFH.html
+  Storing any program error messages into spec_Arkansas__MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Arkansas__MFH.spc at  Mar 25, 2025  22.48.19 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.19 
+
+  Reading input spec file from spec_Arkansas__SFH.spc
+  Storing any program output into spec_Arkansas__SFH.html
+  Storing any program error messages into spec_Arkansas__SFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Arkansas__SFH.spc at  Mar 25, 2025  22.48.19 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.19 
+
+  Reading input spec file from spec_Arkansas__S_MFH.spc
+  Storing any program output into spec_Arkansas__S_MFH.html
+  Storing any program error messages into spec_Arkansas__S_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Arkansas__S_MFH.spc at  Mar 25, 2025  22.48.19 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.19 
+
+  Reading input spec file from spec_Arkansas__TOT.spc
+  Storing any program output into spec_Arkansas__TOT.html
+  Storing any program error messages into spec_Arkansas__TOT_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Arkansas__TOT.spc at  Mar 25, 2025  22.48.19 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.19 
+
+  Reading input spec file from spec_California__L_MFH.spc
+  Storing any program output into spec_California__L_MFH.html
+  Storing any program error messages into spec_California__L_MFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_California__L_MFH.spc at  Mar 25, 2025  22.48.19 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.19 
+
+  Reading input spec file from spec_California__MFH.spc
+  Storing any program output into spec_California__MFH.html
+  Storing any program error messages into spec_California__MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_California__MFH.spc at  Mar 25, 2025  22.48.19 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.19 
+
+  Reading input spec file from spec_California__SFH.spc
+  Storing any program output into spec_California__SFH.html
+  Storing any program error messages into spec_California__SFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_California__SFH.spc at  Mar 25, 2025  22.48.19 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.19 
+
+  Reading input spec file from spec_California__S_MFH.spc
+  Storing any program output into spec_California__S_MFH.html
+  Storing any program error messages into spec_California__S_MFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_California__S_MFH.spc at  Mar 25, 2025  22.48.19 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.19 
+
+  Reading input spec file from spec_California__TOT.spc
+  Storing any program output into spec_California__TOT.html
+  Storing any program error messages into spec_California__TOT_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_California__TOT.spc at  Mar 25, 2025  22.48.19 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.19 
+
+  Reading input spec file from spec_Colorado__L_MFH.spc
+  Storing any program output into spec_Colorado__L_MFH.html
+  Storing any program error messages into spec_Colorado__L_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Colorado__L_MFH.spc at  Mar 25, 2025  22.48.19 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.19 
+
+  Reading input spec file from spec_Colorado__MFH.spc
+  Storing any program output into spec_Colorado__MFH.html
+  Storing any program error messages into spec_Colorado__MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Colorado__MFH.spc at  Mar 25, 2025  22.48.19 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.19 
+
+  Reading input spec file from spec_Colorado__SFH.spc
+  Storing any program output into spec_Colorado__SFH.html
+  Storing any program error messages into spec_Colorado__SFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+
+ Execution complete for spec_Colorado__SFH.spc at  Mar 25, 2025  22.48.20 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.20 
+
+  Reading input spec file from spec_Colorado__S_MFH.spc
+  Storing any program output into spec_Colorado__S_MFH.html
+  Storing any program error messages into spec_Colorado__S_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Colorado__S_MFH.spc at  Mar 25, 2025  22.48.20 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.20 
+
+  Reading input spec file from spec_Colorado__TOT.spc
+  Storing any program output into spec_Colorado__TOT.html
+  Storing any program error messages into spec_Colorado__TOT_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Colorado__TOT.spc at  Mar 25, 2025  22.48.20 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.20 
+
+  Reading input spec file from spec_Connecticut__L_MFH.spc
+  Storing any program output into spec_Connecticut__L_MFH.html
+  Storing any program error messages into spec_Connecticut__L_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Connecticut__L_MFH.spc at  Mar 25, 2025  22.48.20 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.20 
+
+  Reading input spec file from spec_Connecticut__MFH.spc
+  Storing any program output into spec_Connecticut__MFH.html
+  Storing any program error messages into spec_Connecticut__MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Connecticut__MFH.spc at  Mar 25, 2025  22.48.20 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.20 
+
+  Reading input spec file from spec_Connecticut__SFH.spc
+  Storing any program output into spec_Connecticut__SFH.html
+  Storing any program error messages into spec_Connecticut__SFH_err.html
+ 
+
+ Execution complete for spec_Connecticut__SFH.spc at  Mar 25, 2025  22.48.20 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.20 
+
+  Reading input spec file from spec_Connecticut__S_MFH.spc
+  Storing any program output into spec_Connecticut__S_MFH.html
+  Storing any program error messages into spec_Connecticut__S_MFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Connecticut__S_MFH.spc at  Mar 25, 2025  22.48.20 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.20 
+
+  Reading input spec file from spec_Connecticut__TOT.spc
+  Storing any program output into spec_Connecticut__TOT.html
+  Storing any program error messages into spec_Connecticut__TOT_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Connecticut__TOT.spc at  Mar 25, 2025  22.48.20 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.20 
+
+  Reading input spec file from spec_Delaware__L_MFH.spc
+  Storing any program output into spec_Delaware__L_MFH.html
+  Storing any program error messages into spec_Delaware__L_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Delaware__L_MFH.spc at  Mar 25, 2025  22.48.20 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.20 
+
+  Reading input spec file from spec_Delaware__MFH.spc
+  Storing any program output into spec_Delaware__MFH.html
+  Storing any program error messages into spec_Delaware__MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Delaware__MFH.spc at  Mar 25, 2025  22.48.20 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.20 
+
+  Reading input spec file from spec_Delaware__SFH.spc
+  Storing any program output into spec_Delaware__SFH.html
+  Storing any program error messages into spec_Delaware__SFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Delaware__SFH.spc at  Mar 25, 2025  22.48.20 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.20 
+
+  Reading input spec file from spec_Delaware__S_MFH.spc
+  Storing any program output into spec_Delaware__S_MFH.html
+  Storing any program error messages into spec_Delaware__S_MFH_err.html
+ 
+
+ Execution complete for spec_Delaware__S_MFH.spc at  Mar 25, 2025  22.48.20 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.20 
+
+  Reading input spec file from spec_Delaware__TOT.spc
+  Storing any program output into spec_Delaware__TOT.html
+  Storing any program error messages into spec_Delaware__TOT_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Delaware__TOT.spc at  Mar 25, 2025  22.48.20 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.20 
+
+  Reading input spec file from spec_Florida__L_MFH.spc
+  Storing any program output into spec_Florida__L_MFH.html
+  Storing any program error messages into spec_Florida__L_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Florida__L_MFH.spc at  Mar 25, 2025  22.48.20 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.20 
+
+  Reading input spec file from spec_Florida__MFH.spc
+  Storing any program output into spec_Florida__MFH.html
+  Storing any program error messages into spec_Florida__MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Florida__MFH.spc at  Mar 25, 2025  22.48.20 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.20 
+
+  Reading input spec file from spec_Florida__SFH.spc
+  Storing any program output into spec_Florida__SFH.html
+  Storing any program error messages into spec_Florida__SFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+
+ Execution complete for spec_Florida__SFH.spc at  Mar 25, 2025  22.48.20 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.20 
+
+  Reading input spec file from spec_Florida__S_MFH.spc
+  Storing any program output into spec_Florida__S_MFH.html
+  Storing any program error messages into spec_Florida__S_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Florida__S_MFH.spc at  Mar 25, 2025  22.48.20 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.20 
+
+  Reading input spec file from spec_Florida__TOT.spc
+  Storing any program output into spec_Florida__TOT.html
+  Storing any program error messages into spec_Florida__TOT_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Florida__TOT.spc at  Mar 25, 2025  22.48.20 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.20 
+
+  Reading input spec file from spec_Georgia__L_MFH.spc
+  Storing any program output into spec_Georgia__L_MFH.html
+  Storing any program error messages into spec_Georgia__L_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Georgia__L_MFH.spc at  Mar 25, 2025  22.48.20 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.20 
+
+  Reading input spec file from spec_Georgia__MFH.spc
+  Storing any program output into spec_Georgia__MFH.html
+  Storing any program error messages into spec_Georgia__MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Georgia__MFH.spc at  Mar 25, 2025  22.48.21 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.21 
+
+  Reading input spec file from spec_Georgia__SFH.spc
+  Storing any program output into spec_Georgia__SFH.html
+  Storing any program error messages into spec_Georgia__SFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+
+ Execution complete for spec_Georgia__SFH.spc at  Mar 25, 2025  22.48.21 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.21 
+
+  Reading input spec file from spec_Georgia__S_MFH.spc
+  Storing any program output into spec_Georgia__S_MFH.html
+  Storing any program error messages into spec_Georgia__S_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Georgia__S_MFH.spc at  Mar 25, 2025  22.48.21 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.21 
+
+  Reading input spec file from spec_Georgia__TOT.spc
+  Storing any program output into spec_Georgia__TOT.html
+  Storing any program error messages into spec_Georgia__TOT_err.html
+ 
+
+ Execution complete for spec_Georgia__TOT.spc at  Mar 25, 2025  22.48.21 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.21 
+
+  Reading input spec file from spec_Idaho__L_MFH.spc
+  Storing any program output into spec_Idaho__L_MFH.html
+  Storing any program error messages into spec_Idaho__L_MFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Idaho__L_MFH.spc at  Mar 25, 2025  22.48.21 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.21 
+
+  Reading input spec file from spec_Idaho__MFH.spc
+  Storing any program output into spec_Idaho__MFH.html
+  Storing any program error messages into spec_Idaho__MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Idaho__MFH.spc at  Mar 25, 2025  22.48.21 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.21 
+
+  Reading input spec file from spec_Idaho__SFH.spc
+  Storing any program output into spec_Idaho__SFH.html
+  Storing any program error messages into spec_Idaho__SFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+
+ Execution complete for spec_Idaho__SFH.spc at  Mar 25, 2025  22.48.21 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.21 
+
+  Reading input spec file from spec_Idaho__S_MFH.spc
+  Storing any program output into spec_Idaho__S_MFH.html
+  Storing any program error messages into spec_Idaho__S_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Idaho__S_MFH.spc at  Mar 25, 2025  22.48.21 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.21 
+
+  Reading input spec file from spec_Idaho__TOT.spc
+  Storing any program output into spec_Idaho__TOT.html
+  Storing any program error messages into spec_Idaho__TOT_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+
+ Execution complete for spec_Idaho__TOT.spc at  Mar 25, 2025  22.48.21 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.21 
+
+  Reading input spec file from spec_Illinois__L_MFH.spc
+  Storing any program output into spec_Illinois__L_MFH.html
+  Storing any program error messages into spec_Illinois__L_MFH_err.html
+ 
+
+ Execution complete for spec_Illinois__L_MFH.spc at  Mar 25, 2025  22.48.21 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.21 
+
+  Reading input spec file from spec_Illinois__MFH.spc
+  Storing any program output into spec_Illinois__MFH.html
+  Storing any program error messages into spec_Illinois__MFH_err.html
+ 
+
+ Execution complete for spec_Illinois__MFH.spc at  Mar 25, 2025  22.48.21 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.21 
+
+  Reading input spec file from spec_Illinois__SFH.spc
+  Storing any program output into spec_Illinois__SFH.html
+  Storing any program error messages into spec_Illinois__SFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+
+ Execution complete for spec_Illinois__SFH.spc at  Mar 25, 2025  22.48.21 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.21 
+
+  Reading input spec file from spec_Illinois__S_MFH.spc
+  Storing any program output into spec_Illinois__S_MFH.html
+  Storing any program error messages into spec_Illinois__S_MFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+
+ Execution complete for spec_Illinois__S_MFH.spc at  Mar 25, 2025  22.48.21 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.21 
+
+  Reading input spec file from spec_Illinois__TOT.spc
+  Storing any program output into spec_Illinois__TOT.html
+  Storing any program error messages into spec_Illinois__TOT_err.html
+ 
+
+ Execution complete for spec_Illinois__TOT.spc at  Mar 25, 2025  22.48.21 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.21 
+
+  Reading input spec file from spec_Indiana__L_MFH.spc
+  Storing any program output into spec_Indiana__L_MFH.html
+  Storing any program error messages into spec_Indiana__L_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Indiana__L_MFH.spc at  Mar 25, 2025  22.48.21 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.21 
+
+  Reading input spec file from spec_Indiana__MFH.spc
+  Storing any program output into spec_Indiana__MFH.html
+  Storing any program error messages into spec_Indiana__MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Indiana__MFH.spc at  Mar 25, 2025  22.48.21 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.21 
+
+  Reading input spec file from spec_Indiana__SFH.spc
+  Storing any program output into spec_Indiana__SFH.html
+  Storing any program error messages into spec_Indiana__SFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+
+ Execution complete for spec_Indiana__SFH.spc at  Mar 25, 2025  22.48.21 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.21 
+
+  Reading input spec file from spec_Indiana__S_MFH.spc
+  Storing any program output into spec_Indiana__S_MFH.html
+  Storing any program error messages into spec_Indiana__S_MFH_err.html
+ 
+
+ Execution complete for spec_Indiana__S_MFH.spc at  Mar 25, 2025  22.48.21 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.21 
+
+  Reading input spec file from spec_Indiana__TOT.spc
+  Storing any program output into spec_Indiana__TOT.html
+  Storing any program error messages into spec_Indiana__TOT_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+
+ Execution complete for spec_Indiana__TOT.spc at  Mar 25, 2025  22.48.21 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.21 
+
+  Reading input spec file from spec_Iowa__L_MFH.spc
+  Storing any program output into spec_Iowa__L_MFH.html
+  Storing any program error messages into spec_Iowa__L_MFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+
+ Execution complete for spec_Iowa__L_MFH.spc at  Mar 25, 2025  22.48.21 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.22 
+
+  Reading input spec file from spec_Iowa__MFH.spc
+  Storing any program output into spec_Iowa__MFH.html
+  Storing any program error messages into spec_Iowa__MFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+
+ Execution complete for spec_Iowa__MFH.spc at  Mar 25, 2025  22.48.22 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.22 
+
+  Reading input spec file from spec_Iowa__SFH.spc
+  Storing any program output into spec_Iowa__SFH.html
+  Storing any program error messages into spec_Iowa__SFH_err.html
+ 
+
+ Execution complete for spec_Iowa__SFH.spc at  Mar 25, 2025  22.48.22 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.22 
+
+  Reading input spec file from spec_Iowa__S_MFH.spc
+  Storing any program output into spec_Iowa__S_MFH.html
+  Storing any program error messages into spec_Iowa__S_MFH_err.html
+ 
+
+ Execution complete for spec_Iowa__S_MFH.spc at  Mar 25, 2025  22.48.22 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.22 
+
+  Reading input spec file from spec_Iowa__TOT.spc
+  Storing any program output into spec_Iowa__TOT.html
+  Storing any program error messages into spec_Iowa__TOT_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+
+ Execution complete for spec_Iowa__TOT.spc at  Mar 25, 2025  22.48.22 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.22 
+
+  Reading input spec file from spec_Kansas__L_MFH.spc
+  Storing any program output into spec_Kansas__L_MFH.html
+  Storing any program error messages into spec_Kansas__L_MFH_err.html
+ 
+
+ WARNING: At least one negative value was found in one of the trend
+          cycle estimates (D 12).  Negative value(s) will be replaced
+          either by the mean of its two closest neighbors that are greater
+          than zero, or by the nearest value that  is greater than zero
+          (if the value is on either end of the series).
+   
+            These are often caused by substantial outliers in the original
+            series.  Users should fit a regARIMA model to the series
+            using outlier regression variables to correct for such effects.
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+
+ Execution complete for spec_Kansas__L_MFH.spc at  Mar 25, 2025  22.48.22 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.22 
+
+  Reading input spec file from spec_Kansas__MFH.spc
+  Storing any program output into spec_Kansas__MFH.html
+  Storing any program error messages into spec_Kansas__MFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+
+ Execution complete for spec_Kansas__MFH.spc at  Mar 25, 2025  22.48.22 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.22 
+
+  Reading input spec file from spec_Kansas__SFH.spc
+  Storing any program output into spec_Kansas__SFH.html
+  Storing any program error messages into spec_Kansas__SFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+
+ Execution complete for spec_Kansas__SFH.spc at  Mar 25, 2025  22.48.22 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.22 
+
+  Reading input spec file from spec_Kansas__S_MFH.spc
+  Storing any program output into spec_Kansas__S_MFH.html
+  Storing any program error messages into spec_Kansas__S_MFH_err.html
+ 
+
+ Execution complete for spec_Kansas__S_MFH.spc at  Mar 25, 2025  22.48.22 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.22 
+
+  Reading input spec file from spec_Kansas__TOT.spc
+  Storing any program output into spec_Kansas__TOT.html
+  Storing any program error messages into spec_Kansas__TOT_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Kansas__TOT.spc at  Mar 25, 2025  22.48.22 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.22 
+
+  Reading input spec file from spec_Kentucky__L_MFH.spc
+  Storing any program output into spec_Kentucky__L_MFH.html
+  Storing any program error messages into spec_Kentucky__L_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Kentucky__L_MFH.spc at  Mar 25, 2025  22.48.22 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.22 
+
+  Reading input spec file from spec_Kentucky__MFH.spc
+  Storing any program output into spec_Kentucky__MFH.html
+  Storing any program error messages into spec_Kentucky__MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Kentucky__MFH.spc at  Mar 25, 2025  22.48.22 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.22 
+
+  Reading input spec file from spec_Kentucky__SFH.spc
+  Storing any program output into spec_Kentucky__SFH.html
+  Storing any program error messages into spec_Kentucky__SFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+
+ Execution complete for spec_Kentucky__SFH.spc at  Mar 25, 2025  22.48.22 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.22 
+
+  Reading input spec file from spec_Kentucky__S_MFH.spc
+  Storing any program output into spec_Kentucky__S_MFH.html
+  Storing any program error messages into spec_Kentucky__S_MFH_err.html
+ 
+
+ Execution complete for spec_Kentucky__S_MFH.spc at  Mar 25, 2025  22.48.22 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.22 
+
+  Reading input spec file from spec_Kentucky__TOT.spc
+  Storing any program output into spec_Kentucky__TOT.html
+  Storing any program error messages into spec_Kentucky__TOT_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Kentucky__TOT.spc at  Mar 25, 2025  22.48.22 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.22 
+
+  Reading input spec file from spec_Louisiana__L_MFH.spc
+  Storing any program output into spec_Louisiana__L_MFH.html
+  Storing any program error messages into spec_Louisiana__L_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Louisiana__L_MFH.spc at  Mar 25, 2025  22.48.22 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.22 
+
+  Reading input spec file from spec_Louisiana__MFH.spc
+  Storing any program output into spec_Louisiana__MFH.html
+  Storing any program error messages into spec_Louisiana__MFH_err.html
+ 
+
+ WARNING: At least one negative value was found in one of the trend
+          cycle estimates (B  7).  Negative value(s) will be replaced
+          either by the mean of its two closest neighbors that are greater
+          than zero, or by the nearest value that  is greater than zero
+          (if the value is on either end of the series).
+   
+            These are often caused by poor forecasts and/or backcasts.
+            Users should check the fit of any existing regARIMA model,
+            using the diagnostics in the check spec.
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Louisiana__MFH.spc at  Mar 25, 2025  22.48.22 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.22 
+
+  Reading input spec file from spec_Louisiana__SFH.spc
+  Storing any program output into spec_Louisiana__SFH.html
+  Storing any program error messages into spec_Louisiana__SFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+
+ Execution complete for spec_Louisiana__SFH.spc at  Mar 25, 2025  22.48.22 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.22 
+
+  Reading input spec file from spec_Louisiana__S_MFH.spc
+  Storing any program output into spec_Louisiana__S_MFH.html
+  Storing any program error messages into spec_Louisiana__S_MFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Louisiana__S_MFH.spc at  Mar 25, 2025  22.48.22 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.22 
+
+  Reading input spec file from spec_Louisiana__TOT.spc
+  Storing any program output into spec_Louisiana__TOT.html
+  Storing any program error messages into spec_Louisiana__TOT_err.html
+ 
+
+ Execution complete for spec_Louisiana__TOT.spc at  Mar 25, 2025  22.48.23 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.23 
+
+  Reading input spec file from spec_Maine__L_MFH.spc
+  Storing any program output into spec_Maine__L_MFH.html
+  Storing any program error messages into spec_Maine__L_MFH_err.html
+ 
+
+ WARNING: At least one negative value was found in one of the trend
+          cycle estimates (D 12).  Negative value(s) will be replaced
+          either by the mean of its two closest neighbors that are greater
+          than zero, or by the nearest value that  is greater than zero
+          (if the value is on either end of the series).
+   
+            These are often caused by substantial outliers in the original
+            series.  Users should fit a regARIMA model to the series
+            using outlier regression variables to correct for such effects.
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Maine__L_MFH.spc at  Mar 25, 2025  22.48.23 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.23 
+
+  Reading input spec file from spec_Maine__MFH.spc
+  Storing any program output into spec_Maine__MFH.html
+  Storing any program error messages into spec_Maine__MFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Maine__MFH.spc at  Mar 25, 2025  22.48.23 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.23 
+
+  Reading input spec file from spec_Maine__SFH.spc
+  Storing any program output into spec_Maine__SFH.html
+  Storing any program error messages into spec_Maine__SFH_err.html
+ 
+
+ Execution complete for spec_Maine__SFH.spc at  Mar 25, 2025  22.48.23 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.23 
+
+  Reading input spec file from spec_Maine__S_MFH.spc
+  Storing any program output into spec_Maine__S_MFH.html
+  Storing any program error messages into spec_Maine__S_MFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Maine__S_MFH.spc at  Mar 25, 2025  22.48.23 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.23 
+
+  Reading input spec file from spec_Maine__TOT.spc
+  Storing any program output into spec_Maine__TOT.html
+  Storing any program error messages into spec_Maine__TOT_err.html
+ 
+
+ Execution complete for spec_Maine__TOT.spc at  Mar 25, 2025  22.48.23 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.23 
+
+  Reading input spec file from spec_Maryland__L_MFH.spc
+  Storing any program output into spec_Maryland__L_MFH.html
+  Storing any program error messages into spec_Maryland__L_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Maryland__L_MFH.spc at  Mar 25, 2025  22.48.23 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.23 
+
+  Reading input spec file from spec_Maryland__MFH.spc
+  Storing any program output into spec_Maryland__MFH.html
+  Storing any program error messages into spec_Maryland__MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Maryland__MFH.spc at  Mar 25, 2025  22.48.23 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.23 
+
+  Reading input spec file from spec_Maryland__SFH.spc
+  Storing any program output into spec_Maryland__SFH.html
+  Storing any program error messages into spec_Maryland__SFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Maryland__SFH.spc at  Mar 25, 2025  22.48.23 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.23 
+
+  Reading input spec file from spec_Maryland__S_MFH.spc
+  Storing any program output into spec_Maryland__S_MFH.html
+  Storing any program error messages into spec_Maryland__S_MFH_err.html
+ 
+
+ WARNING: At least one negative value was found in one of the trend
+          cycle estimates (B  7).  Negative value(s) will be replaced
+          either by the mean of its two closest neighbors that are greater
+          than zero, or by the nearest value that  is greater than zero
+          (if the value is on either end of the series).
+   
+            These are often caused by poor forecasts and/or backcasts.
+            Users should check the fit of any existing regARIMA model,
+            using the diagnostics in the check spec.
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Maryland__S_MFH.spc at  Mar 25, 2025  22.48.23 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.23 
+
+  Reading input spec file from spec_Maryland__TOT.spc
+  Storing any program output into spec_Maryland__TOT.html
+  Storing any program error messages into spec_Maryland__TOT_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Maryland__TOT.spc at  Mar 25, 2025  22.48.23 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.23 
+
+  Reading input spec file from spec_Massachusetts__L_MFH.spc
+  Storing any program output into spec_Massachusetts__L_MFH.html
+  Storing any program error messages into spec_Massachusetts__L_MFH_err.html
+ 
+
+ Execution complete for spec_Massachusetts__L_MFH.spc at  Mar 25, 2025  22.48.23 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.23 
+
+  Reading input spec file from spec_Massachusetts__MFH.spc
+  Storing any program output into spec_Massachusetts__MFH.html
+  Storing any program error messages into spec_Massachusetts__MFH_err.html
+ 
+
+ Execution complete for spec_Massachusetts__MFH.spc at  Mar 25, 2025  22.48.23 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.23 
+
+  Reading input spec file from spec_Massachusetts__SFH.spc
+  Storing any program output into spec_Massachusetts__SFH.html
+  Storing any program error messages into spec_Massachusetts__SFH_err.html
+ 
+
+ Execution complete for spec_Massachusetts__SFH.spc at  Mar 25, 2025  22.48.23 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.23 
+
+  Reading input spec file from spec_Massachusetts__S_MFH.spc
+  Storing any program output into spec_Massachusetts__S_MFH.html
+  Storing any program error messages into spec_Massachusetts__S_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Massachusetts__S_MFH.spc at  Mar 25, 2025  22.48.23 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.23 
+
+  Reading input spec file from spec_Massachusetts__TOT.spc
+  Storing any program output into spec_Massachusetts__TOT.html
+  Storing any program error messages into spec_Massachusetts__TOT_err.html
+ 
+
+ Execution complete for spec_Massachusetts__TOT.spc at  Mar 25, 2025  22.48.23 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.23 
+
+  Reading input spec file from spec_Michigan__L_MFH.spc
+  Storing any program output into spec_Michigan__L_MFH.html
+  Storing any program error messages into spec_Michigan__L_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Michigan__L_MFH.spc at  Mar 25, 2025  22.48.23 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.23 
+
+  Reading input spec file from spec_Michigan__MFH.spc
+  Storing any program output into spec_Michigan__MFH.html
+  Storing any program error messages into spec_Michigan__MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Michigan__MFH.spc at  Mar 25, 2025  22.48.23 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.23 
+
+  Reading input spec file from spec_Michigan__SFH.spc
+  Storing any program output into spec_Michigan__SFH.html
+  Storing any program error messages into spec_Michigan__SFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+
+ Execution complete for spec_Michigan__SFH.spc at  Mar 25, 2025  22.48.23 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.23 
+
+  Reading input spec file from spec_Michigan__S_MFH.spc
+  Storing any program output into spec_Michigan__S_MFH.html
+  Storing any program error messages into spec_Michigan__S_MFH_err.html
+ 
+
+ Execution complete for spec_Michigan__S_MFH.spc at  Mar 25, 2025  22.48.23 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.23 
+
+  Reading input spec file from spec_Michigan__TOT.spc
+  Storing any program output into spec_Michigan__TOT.html
+  Storing any program error messages into spec_Michigan__TOT_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+
+ Execution complete for spec_Michigan__TOT.spc at  Mar 25, 2025  22.48.24 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.24 
+
+  Reading input spec file from spec_Minnesota__L_MFH.spc
+  Storing any program output into spec_Minnesota__L_MFH.html
+  Storing any program error messages into spec_Minnesota__L_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Minnesota__L_MFH.spc at  Mar 25, 2025  22.48.24 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.24 
+
+  Reading input spec file from spec_Minnesota__MFH.spc
+  Storing any program output into spec_Minnesota__MFH.html
+  Storing any program error messages into spec_Minnesota__MFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Minnesota__MFH.spc at  Mar 25, 2025  22.48.24 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.24 
+
+  Reading input spec file from spec_Minnesota__SFH.spc
+  Storing any program output into spec_Minnesota__SFH.html
+  Storing any program error messages into spec_Minnesota__SFH_err.html
+ 
+
+ Execution complete for spec_Minnesota__SFH.spc at  Mar 25, 2025  22.48.24 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.24 
+
+  Reading input spec file from spec_Minnesota__S_MFH.spc
+  Storing any program output into spec_Minnesota__S_MFH.html
+  Storing any program error messages into spec_Minnesota__S_MFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+
+ Execution complete for spec_Minnesota__S_MFH.spc at  Mar 25, 2025  22.48.24 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.24 
+
+  Reading input spec file from spec_Minnesota__TOT.spc
+  Storing any program output into spec_Minnesota__TOT.html
+  Storing any program error messages into spec_Minnesota__TOT_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+
+ Execution complete for spec_Minnesota__TOT.spc at  Mar 25, 2025  22.48.24 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.24 
+
+  Reading input spec file from spec_Mississippi__L_MFH.spc
+  Storing any program output into spec_Mississippi__L_MFH.html
+  Storing any program error messages into spec_Mississippi__L_MFH_err.html
+ 
+
+ WARNING: At least one negative value was found in one of the trend
+          cycle estimates (B  7).  Negative value(s) will be replaced
+          either by the mean of its two closest neighbors that are greater
+          than zero, or by the nearest value that  is greater than zero
+          (if the value is on either end of the series).
+   
+            These are often caused by poor forecasts and/or backcasts.
+            Users should check the fit of any existing regARIMA model,
+            using the diagnostics in the check spec.
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Mississippi__L_MFH.spc at  Mar 25, 2025  22.48.24 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.24 
+
+  Reading input spec file from spec_Mississippi__MFH.spc
+  Storing any program output into spec_Mississippi__MFH.html
+  Storing any program error messages into spec_Mississippi__MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Mississippi__MFH.spc at  Mar 25, 2025  22.48.24 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.24 
+
+  Reading input spec file from spec_Mississippi__SFH.spc
+  Storing any program output into spec_Mississippi__SFH.html
+  Storing any program error messages into spec_Mississippi__SFH_err.html
+ 
+
+ Execution complete for spec_Mississippi__SFH.spc at  Mar 25, 2025  22.48.24 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.24 
+
+  Reading input spec file from spec_Mississippi__S_MFH.spc
+  Storing any program output into spec_Mississippi__S_MFH.html
+  Storing any program error messages into spec_Mississippi__S_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Mississippi__S_MFH.spc at  Mar 25, 2025  22.48.24 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.24 
+
+  Reading input spec file from spec_Mississippi__TOT.spc
+  Storing any program output into spec_Mississippi__TOT.html
+  Storing any program error messages into spec_Mississippi__TOT_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+
+ Execution complete for spec_Mississippi__TOT.spc at  Mar 25, 2025  22.48.24 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.24 
+
+  Reading input spec file from spec_Missouri__L_MFH.spc
+  Storing any program output into spec_Missouri__L_MFH.html
+  Storing any program error messages into spec_Missouri__L_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Missouri__L_MFH.spc at  Mar 25, 2025  22.48.24 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.24 
+
+  Reading input spec file from spec_Missouri__MFH.spc
+  Storing any program output into spec_Missouri__MFH.html
+  Storing any program error messages into spec_Missouri__MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Missouri__MFH.spc at  Mar 25, 2025  22.48.24 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.24 
+
+  Reading input spec file from spec_Missouri__SFH.spc
+  Storing any program output into spec_Missouri__SFH.html
+  Storing any program error messages into spec_Missouri__SFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+
+ Execution complete for spec_Missouri__SFH.spc at  Mar 25, 2025  22.48.24 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.24 
+
+  Reading input spec file from spec_Missouri__S_MFH.spc
+  Storing any program output into spec_Missouri__S_MFH.html
+  Storing any program error messages into spec_Missouri__S_MFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+
+ Execution complete for spec_Missouri__S_MFH.spc at  Mar 25, 2025  22.48.24 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.24 
+
+  Reading input spec file from spec_Missouri__TOT.spc
+  Storing any program output into spec_Missouri__TOT.html
+  Storing any program error messages into spec_Missouri__TOT_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Missouri__TOT.spc at  Mar 25, 2025  22.48.24 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.24 
+
+  Reading input spec file from spec_Montana__L_MFH.spc
+  Storing any program output into spec_Montana__L_MFH.html
+  Storing any program error messages into spec_Montana__L_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Montana__L_MFH.spc at  Mar 25, 2025  22.48.24 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.24 
+
+  Reading input spec file from spec_Montana__MFH.spc
+  Storing any program output into spec_Montana__MFH.html
+  Storing any program error messages into spec_Montana__MFH_err.html
+ 
+
+ Execution complete for spec_Montana__MFH.spc at  Mar 25, 2025  22.48.24 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.24 
+
+  Reading input spec file from spec_Montana__SFH.spc
+  Storing any program output into spec_Montana__SFH.html
+  Storing any program error messages into spec_Montana__SFH_err.html
+ 
+
+ Execution complete for spec_Montana__SFH.spc at  Mar 25, 2025  22.48.25 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.25 
+
+  Reading input spec file from spec_Montana__S_MFH.spc
+  Storing any program output into spec_Montana__S_MFH.html
+  Storing any program error messages into spec_Montana__S_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Montana__S_MFH.spc at  Mar 25, 2025  22.48.25 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.25 
+
+  Reading input spec file from spec_Montana__TOT.spc
+  Storing any program output into spec_Montana__TOT.html
+  Storing any program error messages into spec_Montana__TOT_err.html
+ 
+
+ Execution complete for spec_Montana__TOT.spc at  Mar 25, 2025  22.48.25 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.25 
+
+  Reading input spec file from spec_Nebraska__L_MFH.spc
+  Storing any program output into spec_Nebraska__L_MFH.html
+  Storing any program error messages into spec_Nebraska__L_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Nebraska__L_MFH.spc at  Mar 25, 2025  22.48.25 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.25 
+
+  Reading input spec file from spec_Nebraska__MFH.spc
+  Storing any program output into spec_Nebraska__MFH.html
+  Storing any program error messages into spec_Nebraska__MFH_err.html
+ 
+
+ Execution complete for spec_Nebraska__MFH.spc at  Mar 25, 2025  22.48.25 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.25 
+
+  Reading input spec file from spec_Nebraska__SFH.spc
+  Storing any program output into spec_Nebraska__SFH.html
+  Storing any program error messages into spec_Nebraska__SFH_err.html
+ 
+
+ Execution complete for spec_Nebraska__SFH.spc at  Mar 25, 2025  22.48.25 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.25 
+
+  Reading input spec file from spec_Nebraska__S_MFH.spc
+  Storing any program output into spec_Nebraska__S_MFH.html
+  Storing any program error messages into spec_Nebraska__S_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Nebraska__S_MFH.spc at  Mar 25, 2025  22.48.25 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.25 
+
+  Reading input spec file from spec_Nebraska__TOT.spc
+  Storing any program output into spec_Nebraska__TOT.html
+  Storing any program error messages into spec_Nebraska__TOT_err.html
+ 
+
+ Execution complete for spec_Nebraska__TOT.spc at  Mar 25, 2025  22.48.25 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.25 
+
+  Reading input spec file from spec_Nevada__L_MFH.spc
+  Storing any program output into spec_Nevada__L_MFH.html
+  Storing any program error messages into spec_Nevada__L_MFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Nevada__L_MFH.spc at  Mar 25, 2025  22.48.25 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.25 
+
+  Reading input spec file from spec_Nevada__MFH.spc
+  Storing any program output into spec_Nevada__MFH.html
+  Storing any program error messages into spec_Nevada__MFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Nevada__MFH.spc at  Mar 25, 2025  22.48.25 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.25 
+
+  Reading input spec file from spec_Nevada__SFH.spc
+  Storing any program output into spec_Nevada__SFH.html
+  Storing any program error messages into spec_Nevada__SFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Nevada__SFH.spc at  Mar 25, 2025  22.48.25 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.25 
+
+  Reading input spec file from spec_Nevada__S_MFH.spc
+  Storing any program output into spec_Nevada__S_MFH.html
+  Storing any program error messages into spec_Nevada__S_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Nevada__S_MFH.spc at  Mar 25, 2025  22.48.25 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.25 
+
+  Reading input spec file from spec_Nevada__TOT.spc
+  Storing any program output into spec_Nevada__TOT.html
+  Storing any program error messages into spec_Nevada__TOT_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Nevada__TOT.spc at  Mar 25, 2025  22.48.25 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.25 
+
+  Reading input spec file from spec_NewpppHampshire__L_MFH.spc
+  Storing any program output into spec_NewpppHampshire__L_MFH.html
+  Storing any program error messages into spec_NewpppHampshire__L_MFH_err.html
+ 
+
+ WARNING: At least one negative value was found in one of the trend
+          cycle estimates (B  7).  Negative value(s) will be replaced
+          either by the mean of its two closest neighbors that are greater
+          than zero, or by the nearest value that  is greater than zero
+          (if the value is on either end of the series).
+   
+            These are often caused by poor forecasts and/or backcasts.
+            Users should check the fit of any existing regARIMA model,
+            using the diagnostics in the check spec.
+
+ WARNING: At least one negative value was found in one of the trend
+          cycle estimates (C  7).  Negative value(s) will be replaced
+          either by the mean of its two closest neighbors that are greater
+          than zero, or by the nearest value that  is greater than zero
+          (if the value is on either end of the series).
+   
+            These are often caused by poor forecasts and/or backcasts.
+            Users should check the fit of any existing regARIMA model,
+            using the diagnostics in the check spec.
+
+ WARNING: At least one negative value was found in one of the trend
+          cycle estimates (D  7).  Negative value(s) will be replaced
+          either by the mean of its two closest neighbors that are greater
+          than zero, or by the nearest value that  is greater than zero
+          (if the value is on either end of the series).
+   
+            These are often caused by poor forecasts and/or backcasts.
+            Users should check the fit of any existing regARIMA model,
+            using the diagnostics in the check spec.
+
+ WARNING: At least one negative value was found in one of the trend
+          cycle estimates (D 12).  Negative value(s) will be replaced
+          either by the mean of its two closest neighbors that are greater
+          than zero, or by the nearest value that  is greater than zero
+          (if the value is on either end of the series).
+   
+            These are often caused by substantial outliers in the original
+            series.  Users should fit a regARIMA model to the series
+            using outlier regression variables to correct for such effects.
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_NewpppHampshire__L_MFH.spc at  Mar 25, 2025  22.48.25 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.25 
+
+  Reading input spec file from spec_NewpppHampshire__MFH.spc
+  Storing any program output into spec_NewpppHampshire__MFH.html
+  Storing any program error messages into spec_NewpppHampshire__MFH_err.html
+ 
+   
+  WARNING: At least one visually significant seasonal peak has been
+           found in one or more of the estimated spectra.
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_NewpppHampshire__MFH.spc at  Mar 25, 2025  22.48.25 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.25 
+
+  Reading input spec file from spec_NewpppHampshire__SFH.spc
+  Storing any program output into spec_NewpppHampshire__SFH.html
+  Storing any program error messages into spec_NewpppHampshire__SFH_err.html
+ 
+
+ Execution complete for spec_NewpppHampshire__SFH.spc at  Mar 25, 2025  22.48.25 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.25 
+
+  Reading input spec file from spec_NewpppHampshire__S_MFH.spc
+  Storing any program output into spec_NewpppHampshire__S_MFH.html
+  Storing any program error messages into spec_NewpppHampshire__S_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_NewpppHampshire__S_MFH.spc at  Mar 25, 2025  22.48.25 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.25 
+
+  Reading input spec file from spec_NewpppHampshire__TOT.spc
+  Storing any program output into spec_NewpppHampshire__TOT.html
+  Storing any program error messages into spec_NewpppHampshire__TOT_err.html
+ 
+
+ Execution complete for spec_NewpppHampshire__TOT.spc at  Mar 25, 2025  22.48.25 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.25 
+
+  Reading input spec file from spec_NewpppJersey__L_MFH.spc
+  Storing any program output into spec_NewpppJersey__L_MFH.html
+  Storing any program error messages into spec_NewpppJersey__L_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_NewpppJersey__L_MFH.spc at  Mar 25, 2025  22.48.25 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.25 
+
+  Reading input spec file from spec_NewpppJersey__MFH.spc
+  Storing any program output into spec_NewpppJersey__MFH.html
+  Storing any program error messages into spec_NewpppJersey__MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_NewpppJersey__MFH.spc at  Mar 25, 2025  22.48.26 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.26 
+
+  Reading input spec file from spec_NewpppJersey__SFH.spc
+  Storing any program output into spec_NewpppJersey__SFH.html
+  Storing any program error messages into spec_NewpppJersey__SFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_NewpppJersey__SFH.spc at  Mar 25, 2025  22.48.26 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.26 
+
+  Reading input spec file from spec_NewpppJersey__S_MFH.spc
+  Storing any program output into spec_NewpppJersey__S_MFH.html
+  Storing any program error messages into spec_NewpppJersey__S_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_NewpppJersey__S_MFH.spc at  Mar 25, 2025  22.48.26 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.26 
+
+  Reading input spec file from spec_NewpppJersey__TOT.spc
+  Storing any program output into spec_NewpppJersey__TOT.html
+  Storing any program error messages into spec_NewpppJersey__TOT_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_NewpppJersey__TOT.spc at  Mar 25, 2025  22.48.26 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.26 
+
+  Reading input spec file from spec_NewpppMexico__L_MFH.spc
+  Storing any program output into spec_NewpppMexico__L_MFH.html
+  Storing any program error messages into spec_NewpppMexico__L_MFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_NewpppMexico__L_MFH.spc at  Mar 25, 2025  22.48.26 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.26 
+
+  Reading input spec file from spec_NewpppMexico__MFH.spc
+  Storing any program output into spec_NewpppMexico__MFH.html
+  Storing any program error messages into spec_NewpppMexico__MFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_NewpppMexico__MFH.spc at  Mar 25, 2025  22.48.26 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.26 
+
+  Reading input spec file from spec_NewpppMexico__SFH.spc
+  Storing any program output into spec_NewpppMexico__SFH.html
+  Storing any program error messages into spec_NewpppMexico__SFH_err.html
+ 
+
+ Execution complete for spec_NewpppMexico__SFH.spc at  Mar 25, 2025  22.48.26 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.26 
+
+  Reading input spec file from spec_NewpppMexico__S_MFH.spc
+  Storing any program output into spec_NewpppMexico__S_MFH.html
+  Storing any program error messages into spec_NewpppMexico__S_MFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_NewpppMexico__S_MFH.spc at  Mar 25, 2025  22.48.26 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.26 
+
+  Reading input spec file from spec_NewpppMexico__TOT.spc
+  Storing any program output into spec_NewpppMexico__TOT.html
+  Storing any program error messages into spec_NewpppMexico__TOT_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_NewpppMexico__TOT.spc at  Mar 25, 2025  22.48.26 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.26 
+
+  Reading input spec file from spec_NewpppYork__L_MFH.spc
+  Storing any program output into spec_NewpppYork__L_MFH.html
+  Storing any program error messages into spec_NewpppYork__L_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_NewpppYork__L_MFH.spc at  Mar 25, 2025  22.48.26 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.26 
+
+  Reading input spec file from spec_NewpppYork__MFH.spc
+  Storing any program output into spec_NewpppYork__MFH.html
+  Storing any program error messages into spec_NewpppYork__MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_NewpppYork__MFH.spc at  Mar 25, 2025  22.48.26 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.26 
+
+  Reading input spec file from spec_NewpppYork__SFH.spc
+  Storing any program output into spec_NewpppYork__SFH.html
+  Storing any program error messages into spec_NewpppYork__SFH_err.html
+ 
+
+ Execution complete for spec_NewpppYork__SFH.spc at  Mar 25, 2025  22.48.26 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.26 
+
+  Reading input spec file from spec_NewpppYork__S_MFH.spc
+  Storing any program output into spec_NewpppYork__S_MFH.html
+  Storing any program error messages into spec_NewpppYork__S_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_NewpppYork__S_MFH.spc at  Mar 25, 2025  22.48.26 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.26 
+
+  Reading input spec file from spec_NewpppYork__TOT.spc
+  Storing any program output into spec_NewpppYork__TOT.html
+  Storing any program error messages into spec_NewpppYork__TOT_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_NewpppYork__TOT.spc at  Mar 25, 2025  22.48.26 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.26 
+
+  Reading input spec file from spec_NorthpppCarolina__L_MFH.spc
+  Storing any program output into spec_NorthpppCarolina__L_MFH.html
+  Storing any program error messages into spec_NorthpppCarolina__L_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_NorthpppCarolina__L_MFH.spc at  Mar 25, 2025  22.48.26 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.26 
+
+  Reading input spec file from spec_NorthpppCarolina__MFH.spc
+  Storing any program output into spec_NorthpppCarolina__MFH.html
+  Storing any program error messages into spec_NorthpppCarolina__MFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_NorthpppCarolina__MFH.spc at  Mar 25, 2025  22.48.26 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.26 
+
+  Reading input spec file from spec_NorthpppCarolina__SFH.spc
+  Storing any program output into spec_NorthpppCarolina__SFH.html
+  Storing any program error messages into spec_NorthpppCarolina__SFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+
+ Execution complete for spec_NorthpppCarolina__SFH.spc at  Mar 25, 2025  22.48.26 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.26 
+
+  Reading input spec file from spec_NorthpppCarolina__S_MFH.spc
+  Storing any program output into spec_NorthpppCarolina__S_MFH.html
+  Storing any program error messages into spec_NorthpppCarolina__S_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_NorthpppCarolina__S_MFH.spc at  Mar 25, 2025  22.48.26 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.26 
+
+  Reading input spec file from spec_NorthpppCarolina__TOT.spc
+  Storing any program output into spec_NorthpppCarolina__TOT.html
+  Storing any program error messages into spec_NorthpppCarolina__TOT_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+
+ Execution complete for spec_NorthpppCarolina__TOT.spc at  Mar 25, 2025  22.48.27 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.27 
+
+  Reading input spec file from spec_NorthpppDakota__L_MFH.spc
+  Storing any program output into spec_NorthpppDakota__L_MFH.html
+  Storing any program error messages into spec_NorthpppDakota__L_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_NorthpppDakota__L_MFH.spc at  Mar 25, 2025  22.48.27 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.27 
+
+  Reading input spec file from spec_NorthpppDakota__MFH.spc
+  Storing any program output into spec_NorthpppDakota__MFH.html
+  Storing any program error messages into spec_NorthpppDakota__MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_NorthpppDakota__MFH.spc at  Mar 25, 2025  22.48.27 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.27 
+
+  Reading input spec file from spec_NorthpppDakota__SFH.spc
+  Storing any program output into spec_NorthpppDakota__SFH.html
+  Storing any program error messages into spec_NorthpppDakota__SFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+
+ Execution complete for spec_NorthpppDakota__SFH.spc at  Mar 25, 2025  22.48.27 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.27 
+
+  Reading input spec file from spec_NorthpppDakota__S_MFH.spc
+  Storing any program output into spec_NorthpppDakota__S_MFH.html
+  Storing any program error messages into spec_NorthpppDakota__S_MFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_NorthpppDakota__S_MFH.spc at  Mar 25, 2025  22.48.27 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.27 
+
+  Reading input spec file from spec_NorthpppDakota__TOT.spc
+  Storing any program output into spec_NorthpppDakota__TOT.html
+  Storing any program error messages into spec_NorthpppDakota__TOT_err.html
+ 
+
+ Execution complete for spec_NorthpppDakota__TOT.spc at  Mar 25, 2025  22.48.27 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.27 
+
+  Reading input spec file from spec_Ohio__L_MFH.spc
+  Storing any program output into spec_Ohio__L_MFH.html
+  Storing any program error messages into spec_Ohio__L_MFH_err.html
+ 
+
+ Execution complete for spec_Ohio__L_MFH.spc at  Mar 25, 2025  22.48.27 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.27 
+
+  Reading input spec file from spec_Ohio__MFH.spc
+  Storing any program output into spec_Ohio__MFH.html
+  Storing any program error messages into spec_Ohio__MFH_err.html
+ 
+
+ Execution complete for spec_Ohio__MFH.spc at  Mar 25, 2025  22.48.27 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.27 
+
+  Reading input spec file from spec_Ohio__SFH.spc
+  Storing any program output into spec_Ohio__SFH.html
+  Storing any program error messages into spec_Ohio__SFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+
+ Execution complete for spec_Ohio__SFH.spc at  Mar 25, 2025  22.48.27 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.27 
+
+  Reading input spec file from spec_Ohio__S_MFH.spc
+  Storing any program output into spec_Ohio__S_MFH.html
+  Storing any program error messages into spec_Ohio__S_MFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Ohio__S_MFH.spc at  Mar 25, 2025  22.48.27 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.27 
+
+  Reading input spec file from spec_Ohio__TOT.spc
+  Storing any program output into spec_Ohio__TOT.html
+  Storing any program error messages into spec_Ohio__TOT_err.html
+ 
+
+ Execution complete for spec_Ohio__TOT.spc at  Mar 25, 2025  22.48.27 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.27 
+
+  Reading input spec file from spec_Oklahoma__L_MFH.spc
+  Storing any program output into spec_Oklahoma__L_MFH.html
+  Storing any program error messages into spec_Oklahoma__L_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Oklahoma__L_MFH.spc at  Mar 25, 2025  22.48.27 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.27 
+
+  Reading input spec file from spec_Oklahoma__MFH.spc
+  Storing any program output into spec_Oklahoma__MFH.html
+  Storing any program error messages into spec_Oklahoma__MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Oklahoma__MFH.spc at  Mar 25, 2025  22.48.27 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.27 
+
+  Reading input spec file from spec_Oklahoma__SFH.spc
+  Storing any program output into spec_Oklahoma__SFH.html
+  Storing any program error messages into spec_Oklahoma__SFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+
+ Execution complete for spec_Oklahoma__SFH.spc at  Mar 25, 2025  22.48.27 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.27 
+
+  Reading input spec file from spec_Oklahoma__S_MFH.spc
+  Storing any program output into spec_Oklahoma__S_MFH.html
+  Storing any program error messages into spec_Oklahoma__S_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Oklahoma__S_MFH.spc at  Mar 25, 2025  22.48.27 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.27 
+
+  Reading input spec file from spec_Oklahoma__TOT.spc
+  Storing any program output into spec_Oklahoma__TOT.html
+  Storing any program error messages into spec_Oklahoma__TOT_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Oklahoma__TOT.spc at  Mar 25, 2025  22.48.27 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.27 
+
+  Reading input spec file from spec_Oregon__L_MFH.spc
+  Storing any program output into spec_Oregon__L_MFH.html
+  Storing any program error messages into spec_Oregon__L_MFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Oregon__L_MFH.spc at  Mar 25, 2025  22.48.27 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.27 
+
+  Reading input spec file from spec_Oregon__MFH.spc
+  Storing any program output into spec_Oregon__MFH.html
+  Storing any program error messages into spec_Oregon__MFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Oregon__MFH.spc at  Mar 25, 2025  22.48.27 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.27 
+
+  Reading input spec file from spec_Oregon__SFH.spc
+  Storing any program output into spec_Oregon__SFH.html
+  Storing any program error messages into spec_Oregon__SFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+
+ Execution complete for spec_Oregon__SFH.spc at  Mar 25, 2025  22.48.27 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.27 
+
+  Reading input spec file from spec_Oregon__S_MFH.spc
+  Storing any program output into spec_Oregon__S_MFH.html
+  Storing any program error messages into spec_Oregon__S_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Oregon__S_MFH.spc at  Mar 25, 2025  22.48.28 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.28 
+
+  Reading input spec file from spec_Oregon__TOT.spc
+  Storing any program output into spec_Oregon__TOT.html
+  Storing any program error messages into spec_Oregon__TOT_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Oregon__TOT.spc at  Mar 25, 2025  22.48.28 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.28 
+
+  Reading input spec file from spec_Pennsylvania__L_MFH.spc
+  Storing any program output into spec_Pennsylvania__L_MFH.html
+  Storing any program error messages into spec_Pennsylvania__L_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Pennsylvania__L_MFH.spc at  Mar 25, 2025  22.48.28 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.28 
+
+  Reading input spec file from spec_Pennsylvania__MFH.spc
+  Storing any program output into spec_Pennsylvania__MFH.html
+  Storing any program error messages into spec_Pennsylvania__MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Pennsylvania__MFH.spc at  Mar 25, 2025  22.48.28 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.28 
+
+  Reading input spec file from spec_Pennsylvania__SFH.spc
+  Storing any program output into spec_Pennsylvania__SFH.html
+  Storing any program error messages into spec_Pennsylvania__SFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Pennsylvania__SFH.spc at  Mar 25, 2025  22.48.28 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.28 
+
+  Reading input spec file from spec_Pennsylvania__S_MFH.spc
+  Storing any program output into spec_Pennsylvania__S_MFH.html
+  Storing any program error messages into spec_Pennsylvania__S_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Pennsylvania__S_MFH.spc at  Mar 25, 2025  22.48.28 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.28 
+
+  Reading input spec file from spec_Pennsylvania__TOT.spc
+  Storing any program output into spec_Pennsylvania__TOT.html
+  Storing any program error messages into spec_Pennsylvania__TOT_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Pennsylvania__TOT.spc at  Mar 25, 2025  22.48.28 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.28 
+
+  Reading input spec file from spec_RhodepppIsland__L_MFH.spc
+  Storing any program output into spec_RhodepppIsland__L_MFH.html
+  Storing any program error messages into spec_RhodepppIsland__L_MFH_err.html
+ 
+
+ WARNING: At least one negative value was found in one of the trend
+          cycle estimates (D  7).  Negative value(s) will be replaced
+          either by the mean of its two closest neighbors that are greater
+          than zero, or by the nearest value that  is greater than zero
+          (if the value is on either end of the series).
+   
+            These are often caused by poor forecasts and/or backcasts.
+            Users should check the fit of any existing regARIMA model,
+            using the diagnostics in the check spec.
+
+ WARNING: At least one negative value was found in one of the trend
+          cycle estimates (D 12).  Negative value(s) will be replaced
+          either by the mean of its two closest neighbors that are greater
+          than zero, or by the nearest value that  is greater than zero
+          (if the value is on either end of the series).
+   
+            These are often caused by substantial outliers in the original
+            series.  Users should fit a regARIMA model to the series
+            using outlier regression variables to correct for such effects.
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_RhodepppIsland__L_MFH.spc at  Mar 25, 2025  22.48.28 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.28 
+
+  Reading input spec file from spec_RhodepppIsland__MFH.spc
+  Storing any program output into spec_RhodepppIsland__MFH.html
+  Storing any program error messages into spec_RhodepppIsland__MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_RhodepppIsland__MFH.spc at  Mar 25, 2025  22.48.28 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.28 
+
+  Reading input spec file from spec_RhodepppIsland__SFH.spc
+  Storing any program output into spec_RhodepppIsland__SFH.html
+  Storing any program error messages into spec_RhodepppIsland__SFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_RhodepppIsland__SFH.spc at  Mar 25, 2025  22.48.28 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.28 
+
+  Reading input spec file from spec_RhodepppIsland__S_MFH.spc
+  Storing any program output into spec_RhodepppIsland__S_MFH.html
+  Storing any program error messages into spec_RhodepppIsland__S_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_RhodepppIsland__S_MFH.spc at  Mar 25, 2025  22.48.28 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.28 
+
+  Reading input spec file from spec_RhodepppIsland__TOT.spc
+  Storing any program output into spec_RhodepppIsland__TOT.html
+  Storing any program error messages into spec_RhodepppIsland__TOT_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_RhodepppIsland__TOT.spc at  Mar 25, 2025  22.48.28 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.28 
+
+  Reading input spec file from spec_SouthpppCarolina__L_MFH.spc
+  Storing any program output into spec_SouthpppCarolina__L_MFH.html
+  Storing any program error messages into spec_SouthpppCarolina__L_MFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_SouthpppCarolina__L_MFH.spc at  Mar 25, 2025  22.48.28 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.28 
+
+  Reading input spec file from spec_SouthpppCarolina__MFH.spc
+  Storing any program output into spec_SouthpppCarolina__MFH.html
+  Storing any program error messages into spec_SouthpppCarolina__MFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_SouthpppCarolina__MFH.spc at  Mar 25, 2025  22.48.28 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.28 
+
+  Reading input spec file from spec_SouthpppCarolina__SFH.spc
+  Storing any program output into spec_SouthpppCarolina__SFH.html
+  Storing any program error messages into spec_SouthpppCarolina__SFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_SouthpppCarolina__SFH.spc at  Mar 25, 2025  22.48.28 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.28 
+
+  Reading input spec file from spec_SouthpppCarolina__S_MFH.spc
+  Storing any program output into spec_SouthpppCarolina__S_MFH.html
+  Storing any program error messages into spec_SouthpppCarolina__S_MFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_SouthpppCarolina__S_MFH.spc at  Mar 25, 2025  22.48.28 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.28 
+
+  Reading input spec file from spec_SouthpppCarolina__TOT.spc
+  Storing any program output into spec_SouthpppCarolina__TOT.html
+  Storing any program error messages into spec_SouthpppCarolina__TOT_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_SouthpppCarolina__TOT.spc at  Mar 25, 2025  22.48.28 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.28 
+
+  Reading input spec file from spec_SouthpppDakota__L_MFH.spc
+  Storing any program output into spec_SouthpppDakota__L_MFH.html
+  Storing any program error messages into spec_SouthpppDakota__L_MFH_err.html
+ 
+
+ Execution complete for spec_SouthpppDakota__L_MFH.spc at  Mar 25, 2025  22.48.29 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.29 
+
+  Reading input spec file from spec_SouthpppDakota__MFH.spc
+  Storing any program output into spec_SouthpppDakota__MFH.html
+  Storing any program error messages into spec_SouthpppDakota__MFH_err.html
+ 
+
+ Execution complete for spec_SouthpppDakota__MFH.spc at  Mar 25, 2025  22.48.29 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.29 
+
+  Reading input spec file from spec_SouthpppDakota__SFH.spc
+  Storing any program output into spec_SouthpppDakota__SFH.html
+  Storing any program error messages into spec_SouthpppDakota__SFH_err.html
+ 
+
+ Execution complete for spec_SouthpppDakota__SFH.spc at  Mar 25, 2025  22.48.29 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.29 
+
+  Reading input spec file from spec_SouthpppDakota__S_MFH.spc
+  Storing any program output into spec_SouthpppDakota__S_MFH.html
+  Storing any program error messages into spec_SouthpppDakota__S_MFH_err.html
+ 
+
+ WARNING: At least one negative value was found in one of the trend
+          cycle estimates (B  7).  Negative value(s) will be replaced
+          either by the mean of its two closest neighbors that are greater
+          than zero, or by the nearest value that  is greater than zero
+          (if the value is on either end of the series).
+   
+            These are often caused by poor forecasts and/or backcasts.
+            Users should check the fit of any existing regARIMA model,
+            using the diagnostics in the check spec.
+
+ Execution complete for spec_SouthpppDakota__S_MFH.spc at  Mar 25, 2025  22.48.29 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.29 
+
+  Reading input spec file from spec_SouthpppDakota__TOT.spc
+  Storing any program output into spec_SouthpppDakota__TOT.html
+  Storing any program error messages into spec_SouthpppDakota__TOT_err.html
+ 
+
+ Execution complete for spec_SouthpppDakota__TOT.spc at  Mar 25, 2025  22.48.29 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.29 
+
+  Reading input spec file from spec_Tennessee__L_MFH.spc
+  Storing any program output into spec_Tennessee__L_MFH.html
+  Storing any program error messages into spec_Tennessee__L_MFH_err.html
+ 
+   
+  WARNING: At least one visually significant seasonal peak has been
+           found in one or more of the estimated spectra.
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Tennessee__L_MFH.spc at  Mar 25, 2025  22.48.29 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.29 
+
+  Reading input spec file from spec_Tennessee__MFH.spc
+  Storing any program output into spec_Tennessee__MFH.html
+  Storing any program error messages into spec_Tennessee__MFH_err.html
+ 
+   
+  WARNING: At least one visually significant seasonal peak has been
+           found in one or more of the estimated spectra.
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Tennessee__MFH.spc at  Mar 25, 2025  22.48.29 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.29 
+
+  Reading input spec file from spec_Tennessee__SFH.spc
+  Storing any program output into spec_Tennessee__SFH.html
+  Storing any program error messages into spec_Tennessee__SFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+
+ Execution complete for spec_Tennessee__SFH.spc at  Mar 25, 2025  22.48.29 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.29 
+
+  Reading input spec file from spec_Tennessee__S_MFH.spc
+  Storing any program output into spec_Tennessee__S_MFH.html
+  Storing any program error messages into spec_Tennessee__S_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Tennessee__S_MFH.spc at  Mar 25, 2025  22.48.29 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.29 
+
+  Reading input spec file from spec_Tennessee__TOT.spc
+  Storing any program output into spec_Tennessee__TOT.html
+  Storing any program error messages into spec_Tennessee__TOT_err.html
+ 
+
+ Execution complete for spec_Tennessee__TOT.spc at  Mar 25, 2025  22.48.29 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.29 
+
+  Reading input spec file from spec_Texas__L_MFH.spc
+  Storing any program output into spec_Texas__L_MFH.html
+  Storing any program error messages into spec_Texas__L_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Texas__L_MFH.spc at  Mar 25, 2025  22.48.29 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.29 
+
+  Reading input spec file from spec_Texas__MFH.spc
+  Storing any program output into spec_Texas__MFH.html
+  Storing any program error messages into spec_Texas__MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Texas__MFH.spc at  Mar 25, 2025  22.48.29 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.29 
+
+  Reading input spec file from spec_Texas__SFH.spc
+  Storing any program output into spec_Texas__SFH.html
+  Storing any program error messages into spec_Texas__SFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+
+ Execution complete for spec_Texas__SFH.spc at  Mar 25, 2025  22.48.29 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.29 
+
+  Reading input spec file from spec_Texas__S_MFH.spc
+  Storing any program output into spec_Texas__S_MFH.html
+  Storing any program error messages into spec_Texas__S_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Texas__S_MFH.spc at  Mar 25, 2025  22.48.29 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.29 
+
+  Reading input spec file from spec_Texas__TOT.spc
+  Storing any program output into spec_Texas__TOT.html
+  Storing any program error messages into spec_Texas__TOT_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Texas__TOT.spc at  Mar 25, 2025  22.48.29 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.29 
+
+  Reading input spec file from spec_UnitedpppStates__L_MFH.spc
+  Storing any program output into spec_UnitedpppStates__L_MFH.html
+  Storing any program error messages into spec_UnitedpppStates__L_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_UnitedpppStates__L_MFH.spc at  Mar 25, 2025  22.48.29 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.29 
+
+  Reading input spec file from spec_UnitedpppStates__MFH.spc
+  Storing any program output into spec_UnitedpppStates__MFH.html
+  Storing any program error messages into spec_UnitedpppStates__MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_UnitedpppStates__MFH.spc at  Mar 25, 2025  22.48.29 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.29 
+
+  Reading input spec file from spec_UnitedpppStates__SFH.spc
+  Storing any program output into spec_UnitedpppStates__SFH.html
+  Storing any program error messages into spec_UnitedpppStates__SFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+
+ Execution complete for spec_UnitedpppStates__SFH.spc at  Mar 25, 2025  22.48.29 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.29 
+
+  Reading input spec file from spec_UnitedpppStates__S_MFH.spc
+  Storing any program output into spec_UnitedpppStates__S_MFH.html
+  Storing any program error messages into spec_UnitedpppStates__S_MFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+
+ Execution complete for spec_UnitedpppStates__S_MFH.spc at  Mar 25, 2025  22.48.29 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.29 
+
+  Reading input spec file from spec_UnitedpppStates__TOT.spc
+  Storing any program output into spec_UnitedpppStates__TOT.html
+  Storing any program error messages into spec_UnitedpppStates__TOT_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_UnitedpppStates__TOT.spc at  Mar 25, 2025  22.48.30 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.30 
+
+  Reading input spec file from spec_Utah__L_MFH.spc
+  Storing any program output into spec_Utah__L_MFH.html
+  Storing any program error messages into spec_Utah__L_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Utah__L_MFH.spc at  Mar 25, 2025  22.48.30 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.30 
+
+  Reading input spec file from spec_Utah__MFH.spc
+  Storing any program output into spec_Utah__MFH.html
+  Storing any program error messages into spec_Utah__MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Utah__MFH.spc at  Mar 25, 2025  22.48.30 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.30 
+
+  Reading input spec file from spec_Utah__SFH.spc
+  Storing any program output into spec_Utah__SFH.html
+  Storing any program error messages into spec_Utah__SFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+
+ Execution complete for spec_Utah__SFH.spc at  Mar 25, 2025  22.48.30 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.30 
+
+  Reading input spec file from spec_Utah__S_MFH.spc
+  Storing any program output into spec_Utah__S_MFH.html
+  Storing any program error messages into spec_Utah__S_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Utah__S_MFH.spc at  Mar 25, 2025  22.48.30 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.30 
+
+  Reading input spec file from spec_Utah__TOT.spc
+  Storing any program output into spec_Utah__TOT.html
+  Storing any program error messages into spec_Utah__TOT_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Utah__TOT.spc at  Mar 25, 2025  22.48.30 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.30 
+
+  Reading input spec file from spec_Vermont__L_MFH.spc
+  Storing any program output into spec_Vermont__L_MFH.html
+  Storing any program error messages into spec_Vermont__L_MFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Vermont__L_MFH.spc at  Mar 25, 2025  22.48.30 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.30 
+
+  Reading input spec file from spec_Vermont__MFH.spc
+  Storing any program output into spec_Vermont__MFH.html
+  Storing any program error messages into spec_Vermont__MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Vermont__MFH.spc at  Mar 25, 2025  22.48.30 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.30 
+
+  Reading input spec file from spec_Vermont__SFH.spc
+  Storing any program output into spec_Vermont__SFH.html
+  Storing any program error messages into spec_Vermont__SFH_err.html
+ 
+
+ Execution complete for spec_Vermont__SFH.spc at  Mar 25, 2025  22.48.30 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.30 
+
+  Reading input spec file from spec_Vermont__S_MFH.spc
+  Storing any program output into spec_Vermont__S_MFH.html
+  Storing any program error messages into spec_Vermont__S_MFH_err.html
+ 
+
+ Execution complete for spec_Vermont__S_MFH.spc at  Mar 25, 2025  22.48.30 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.30 
+
+  Reading input spec file from spec_Vermont__TOT.spc
+  Storing any program output into spec_Vermont__TOT.html
+  Storing any program error messages into spec_Vermont__TOT_err.html
+ 
+
+ Execution complete for spec_Vermont__TOT.spc at  Mar 25, 2025  22.48.30 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.30 
+
+  Reading input spec file from spec_Virginia__L_MFH.spc
+  Storing any program output into spec_Virginia__L_MFH.html
+  Storing any program error messages into spec_Virginia__L_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Virginia__L_MFH.spc at  Mar 25, 2025  22.48.30 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.30 
+
+  Reading input spec file from spec_Virginia__MFH.spc
+  Storing any program output into spec_Virginia__MFH.html
+  Storing any program error messages into spec_Virginia__MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Virginia__MFH.spc at  Mar 25, 2025  22.48.30 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.30 
+
+  Reading input spec file from spec_Virginia__SFH.spc
+  Storing any program output into spec_Virginia__SFH.html
+  Storing any program error messages into spec_Virginia__SFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+
+ Execution complete for spec_Virginia__SFH.spc at  Mar 25, 2025  22.48.30 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.30 
+
+  Reading input spec file from spec_Virginia__S_MFH.spc
+  Storing any program output into spec_Virginia__S_MFH.html
+  Storing any program error messages into spec_Virginia__S_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Virginia__S_MFH.spc at  Mar 25, 2025  22.48.30 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.30 
+
+  Reading input spec file from spec_Virginia__TOT.spc
+  Storing any program output into spec_Virginia__TOT.html
+  Storing any program error messages into spec_Virginia__TOT_err.html
+ 
+
+ Execution complete for spec_Virginia__TOT.spc at  Mar 25, 2025  22.48.30 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.30 
+
+  Reading input spec file from spec_Washington__L_MFH.spc
+  Storing any program output into spec_Washington__L_MFH.html
+  Storing any program error messages into spec_Washington__L_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Washington__L_MFH.spc at  Mar 25, 2025  22.48.30 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.30 
+
+  Reading input spec file from spec_Washington__MFH.spc
+  Storing any program output into spec_Washington__MFH.html
+  Storing any program error messages into spec_Washington__MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Washington__MFH.spc at  Mar 25, 2025  22.48.30 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.30 
+
+  Reading input spec file from spec_Washington__SFH.spc
+  Storing any program output into spec_Washington__SFH.html
+  Storing any program error messages into spec_Washington__SFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Washington__SFH.spc at  Mar 25, 2025  22.48.30 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.30 
+
+  Reading input spec file from spec_Washington__S_MFH.spc
+  Storing any program output into spec_Washington__S_MFH.html
+  Storing any program error messages into spec_Washington__S_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Washington__S_MFH.spc at  Mar 25, 2025  22.48.31 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.31 
+
+  Reading input spec file from spec_Washington__TOT.spc
+  Storing any program output into spec_Washington__TOT.html
+  Storing any program error messages into spec_Washington__TOT_err.html
+ 
+
+ Execution complete for spec_Washington__TOT.spc at  Mar 25, 2025  22.48.31 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.31 
+
+  Reading input spec file from spec_WestpppVirginia__L_MFH.spc
+  Storing any program output into spec_WestpppVirginia__L_MFH.html
+  Storing any program error messages into spec_WestpppVirginia__L_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_WestpppVirginia__L_MFH.spc at  Mar 25, 2025  22.48.31 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.31 
+
+  Reading input spec file from spec_WestpppVirginia__MFH.spc
+  Storing any program output into spec_WestpppVirginia__MFH.html
+  Storing any program error messages into spec_WestpppVirginia__MFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_WestpppVirginia__MFH.spc at  Mar 25, 2025  22.48.31 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.31 
+
+  Reading input spec file from spec_WestpppVirginia__SFH.spc
+  Storing any program output into spec_WestpppVirginia__SFH.html
+  Storing any program error messages into spec_WestpppVirginia__SFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_WestpppVirginia__SFH.spc at  Mar 25, 2025  22.48.31 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.31 
+
+  Reading input spec file from spec_WestpppVirginia__S_MFH.spc
+  Storing any program output into spec_WestpppVirginia__S_MFH.html
+  Storing any program error messages into spec_WestpppVirginia__S_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_WestpppVirginia__S_MFH.spc at  Mar 25, 2025  22.48.31 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.31 
+
+  Reading input spec file from spec_WestpppVirginia__TOT.spc
+  Storing any program output into spec_WestpppVirginia__TOT.html
+  Storing any program error messages into spec_WestpppVirginia__TOT_err.html
+ 
+
+ Execution complete for spec_WestpppVirginia__TOT.spc at  Mar 25, 2025  22.48.31 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.31 
+
+  Reading input spec file from spec_Wisconsin__L_MFH.spc
+  Storing any program output into spec_Wisconsin__L_MFH.html
+  Storing any program error messages into spec_Wisconsin__L_MFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+
+ Execution complete for spec_Wisconsin__L_MFH.spc at  Mar 25, 2025  22.48.31 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.31 
+
+  Reading input spec file from spec_Wisconsin__MFH.spc
+  Storing any program output into spec_Wisconsin__MFH.html
+  Storing any program error messages into spec_Wisconsin__MFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+
+ Execution complete for spec_Wisconsin__MFH.spc at  Mar 25, 2025  22.48.31 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.31 
+
+  Reading input spec file from spec_Wisconsin__SFH.spc
+  Storing any program output into spec_Wisconsin__SFH.html
+  Storing any program error messages into spec_Wisconsin__SFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+
+ Execution complete for spec_Wisconsin__SFH.spc at  Mar 25, 2025  22.48.31 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.31 
+
+  Reading input spec file from spec_Wisconsin__S_MFH.spc
+  Storing any program output into spec_Wisconsin__S_MFH.html
+  Storing any program error messages into spec_Wisconsin__S_MFH_err.html
+ 
+
+ Execution complete for spec_Wisconsin__S_MFH.spc at  Mar 25, 2025  22.48.31 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.31 
+
+  Reading input spec file from spec_Wisconsin__TOT.spc
+  Storing any program output into spec_Wisconsin__TOT.html
+  Storing any program error messages into spec_Wisconsin__TOT_err.html
+ 
+
+ Execution complete for spec_Wisconsin__TOT.spc at  Mar 25, 2025  22.48.31 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.31 
+
+  Reading input spec file from spec_Wyoming__L_MFH.spc
+  Storing any program output into spec_Wyoming__L_MFH.html
+  Storing any program error messages into spec_Wyoming__L_MFH_err.html
+ 
+
+ WARNING: At least one negative value was found in one of the trend
+          cycle estimates (D  7).  Negative value(s) will be replaced
+          either by the mean of its two closest neighbors that are greater
+          than zero, or by the nearest value that  is greater than zero
+          (if the value is on either end of the series).
+   
+            These are often caused by poor forecasts and/or backcasts.
+            Users should check the fit of any existing regARIMA model,
+            using the diagnostics in the check spec.
+
+ WARNING: At least one negative value was found in one of the trend
+          cycle estimates (D 12).  Negative value(s) will be replaced
+          either by the mean of its two closest neighbors that are greater
+          than zero, or by the nearest value that  is greater than zero
+          (if the value is on either end of the series).
+   
+            These are often caused by substantial outliers in the original
+            series.  Users should fit a regARIMA model to the series
+            using outlier regression variables to correct for such effects.
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Wyoming__L_MFH.spc at  Mar 25, 2025  22.48.31 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.31 
+
+  Reading input spec file from spec_Wyoming__MFH.spc
+  Storing any program output into spec_Wyoming__MFH.html
+  Storing any program error messages into spec_Wyoming__MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Wyoming__MFH.spc at  Mar 25, 2025  22.48.31 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.31 
+
+  Reading input spec file from spec_Wyoming__SFH.spc
+  Storing any program output into spec_Wyoming__SFH.html
+  Storing any program error messages into spec_Wyoming__SFH_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+
+ Execution complete for spec_Wyoming__SFH.spc at  Mar 25, 2025  22.48.31 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.31 
+
+  Reading input spec file from spec_Wyoming__S_MFH.spc
+  Storing any program output into spec_Wyoming__S_MFH.html
+  Storing any program error messages into spec_Wyoming__S_MFH_err.html
+ 
+   
+  WARNING: Series should not be a candidate for seasonal adjustment
+            because the spectrum of the original series (Table A1 or B1)
+            has no visually significant seasonal peaks.
+
+ Execution complete for spec_Wyoming__S_MFH.spc at  Mar 25, 2025  22.48.31 
+
+ X-13ARIMA-SEATS Seasonal Adjustment Program
+ Version Number 1.1 Build 60
+ Execution began  Mar 25, 2025  22.48.31 
+
+  Reading input spec file from spec_Wyoming__TOT.spc
+  Storing any program output into spec_Wyoming__TOT.html
+  Storing any program error messages into spec_Wyoming__TOT_err.html
+ 
+   
+  WARNING: At least one visually significant trading day peak has been
+           found in one or more of the estimated spectra.
+
+ Execution complete for spec_Wyoming__TOT.spc at  Mar 25, 2025  22.48.31 
